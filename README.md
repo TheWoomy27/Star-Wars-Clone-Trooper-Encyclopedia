@@ -1,5 +1,5 @@
 ## Usage:
-Press different letter and number keys to display different clone trooper helmets. Pressing the space key will toggle between phase I and phase II helemts. Holding the enter key will display a reference menu to show which keys correnspond to which helmets. Legion info is displayed in the bottom right corner. 
+Press different letter and number keys to display different clone trooper helmets. Pressing the space key will toggle between phase I and phase II helemts. Holding the enter key will display a reference menu to show which keys correnspond to which helmets. Pressing the backspace key will revert to a blank helmet. Legion info is displayed in the bottom right corner. 
 
 ## Key Reference:
 
