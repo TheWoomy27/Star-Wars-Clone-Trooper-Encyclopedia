@@ -29,7 +29,7 @@ padawanIntroduction = mixer.Sound(r"Sound\Padawan Introduction.mp3")
 meetingTheRookiesAndRetakingTheBase = mixer.Sound(r"Sound\Meeting the Rookies and Retaking the base.mp3")
 theClonesTheme2StepsFromHellStyle = mixer.Sound(r"Sound\The Clones Theme - TWO STEPS FROM HELL STYLE.mp3")
 battleOverCoruscant = mixer.Sound(r"Sound\Battle over Coruscant.mp3")
-theArena = mixer.Sound(r"Sound\The Arena.mp3")
+theArena = mixer.Sound(r"Sound\The Arena.mp3") 
 music = {theClonesTheme, theClonesTheme2, padawanIntroduction, meetingTheRookiesAndRetakingTheBase, theClonesTheme2StepsFromHellStyle, battleOverCoruscant, theArena}
 theClonesTheme.play(-1)
 
