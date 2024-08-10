@@ -19,7 +19,7 @@ for image in backgrounds:
 
 changeSound = mixer.Sound(r"Sound\purchase_success.mp3")
 errorSound = mixer.Sound(r"Sound\purchase_failure.mp3")
-listSound = mixer.Sound(r"Sound\meu_enter.mp3")
+listSound = mixer.Sound(r"Sound\menu_enter.mp3")
 
 
 ### Music
